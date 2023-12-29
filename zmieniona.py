@@ -6,7 +6,7 @@ from typing import NewType  # nie wiem co mam mi dać ta bibloteka
 
 #typing rozumiem to po prostu pisane metod zmiennych w bardziej przejrzysty sposób
 #trochę mi podpowiedział ten filmik https://www.youtube.com/watch?v=QORvB-_mbZ0
-
+#nowa galaz dev 
 
 
 def count_number_of_rows(plik_csv:str)->str:
